@@ -1,4 +1,4 @@
-module github.com/p3ym4n/gosoap
+module github.com/tiaguinho/gosoap
 
 require (
 	github.com/google/go-cmp v0.5.0 // indirect
